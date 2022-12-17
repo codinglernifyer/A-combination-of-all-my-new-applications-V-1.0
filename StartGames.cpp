@@ -20,7 +20,7 @@ MonsterEncounter MB; // Creates a Monster Encounter object that you can edit the
 
 MB.secondsGameIsPaused = 4;// Chooses how many seconds the game is paused after every player move.
   
-MB.monsterName = "rabbit";// Ghange the name of the monster here.
+MB.monsterName = "monster";// Ghange the name of the monster here.
 
 MB.startingMonsterHealth = 30;// This is the ammount of health the monster will start with when you start a new game.
 
